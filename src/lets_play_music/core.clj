@@ -1,7 +1,9 @@
 (ns lets-play-music.core
+  (:require [lets-play-music.players :as p])
   (:gen-class))
 
 (defn -main
-  "I don't do a whole lot ... yet."
   [& args]
-  (println "Hello, World!"))
+  (loop []
+    (p/start (nth args 0))
+    (recur)))

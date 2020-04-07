@@ -1,0 +1,7 @@
+title: Beat 1
+artist: Clarice Bouwer
+---
+. x x x x x x x x x x x x x x x
+. S . . . . S . . . . . S . . .
+. . . B . . . . . B . . . . . B
+. C . . . . . . . . . . . . . C
